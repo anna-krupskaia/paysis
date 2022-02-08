@@ -1,0 +1,9 @@
+{
+  "name": "js1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna Krupskaia",
+  "license": "ISC",
+  "description": "API test for Paysis project"
+}
